@@ -1,0 +1,45 @@
+a:hover{
+  color: #734998;
+  font-size: 25px;
+}
+a{
+  text-shadow: 2px 2px 4px #220A47;
+}
+li{
+  display: inline;
+}
+h1{
+  color:#734998;
+  text-shadow: 1px 1px 2px #734998;
+}
+body{
+  background: linear-gradient(#BEA8D1, #591BB8);
+}
+
+h3{
+ text-decoration: underline;
+  color: #220A47;
+  text-shadow: 2px 2px 4px #220A47;
+}
+
+h5{
+  font-style: italic;
+  font-size:15px ;
+  color: #1C137C;
+}
+span{
+  text-decoration: underline;
+  font-size: 12px;
+}
+p::first-letter{
+color:#1C57A4;
+  font-size: 40px;
+  font-style: italic;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:#766086;
+  opacity:0.5;
+  color: white;
+}
